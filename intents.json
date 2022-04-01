@@ -1,0 +1,10 @@
+{"intents" : [
+    {"tag": "greetings",
+    "patterns": ["Hi", "Hello", "Hey", "What's up?", "Good Day"],
+    "responses": ["Hello", "Hello Sir", "Hi, How may I help you?" ]},
+
+    {"tag": "age",
+        "patterns": ["How old are you?", "What is your age?"],
+        "responses": ["I am 0 years old!" ]}
+]
+}
